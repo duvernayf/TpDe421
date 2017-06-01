@@ -20,6 +20,10 @@ public class De {
     public int getVal() {
         return valeur;
     }
+    
+    public void setVal(int v) {
+        valeur = v;
+    }
 
     @Override
     public String toString() {

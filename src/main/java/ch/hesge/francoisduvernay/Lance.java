@@ -23,4 +23,8 @@ public class Lance {
     public ArrayList getListeDes(){
         return des;
     }
+    
+    public void setListeDes(ArrayList d){
+        des = d;
+    }
 }
